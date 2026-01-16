@@ -1,0 +1,25 @@
+{
+  "sunroof": {
+    "configVersion": 1,
+    "latestVersion": "0.0.0",
+    "minimumVersion": "0.0.0",
+    "optionalText": "",
+    "optionalSource": "stable",
+
+    "isDead": false,
+    "denySessions": false,
+    "maintenanceFlag": false,
+    "eosFlag": false,
+
+    "messages": {
+      "maintenance": "Servers are down for maintenance.",
+      "eos": "This version is no longer supported."
+    },
+    
+    "features": {
+      "theme1": true,
+      "theme2": false,
+      "theme3": false
+    }
+  }
+}
