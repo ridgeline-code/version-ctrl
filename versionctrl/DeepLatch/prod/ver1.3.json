@@ -6,8 +6,9 @@
     "updateLink": "https://www.google.com"
   },
   "denyAccess": {
-    "active": false,
+    "active": true,
     "title": "Ended Support",
     "message": "Thank you for showing interest, however this app has ended online support."
   }
 }
+
