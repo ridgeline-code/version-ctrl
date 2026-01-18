@@ -1,14 +1,15 @@
 {
   "isOutdated": {
-    "active": true,
+    "active": false,
     "title": "Outdated Client",
     "message": "This version of the client is outdated and may fail to work correctly. Updating is advised.",
     "updateLink": "https://www.google.com"
   },
   "denyAccess": {
-    "active": true,
+    "active": false,
     "title": "Ended Support",
     "message": "Thank you for showing interest, however this app has ended online support."
   }
 }
+
 
