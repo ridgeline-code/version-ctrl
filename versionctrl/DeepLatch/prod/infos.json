@@ -1,1 +1,19 @@
-
+{
+  "downtimeInfo": {
+    "active": true,
+    "title": "Downtime Scheduled",
+    "startTime": "today",
+    "endTime": "tomorrow",
+    "message": "Testing how downtime warning looks"
+  },
+  "infoBoard": [
+    {
+      "title": "Test Message 1",
+      "message": "Testing how this looks."
+    },
+    {
+      "title": "Test Message 2",
+      "message": "Doing the same thing as above!"
+    }
+  ]
+}
