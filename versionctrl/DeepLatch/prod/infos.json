@@ -1,6 +1,6 @@
 {
   "downtimeInfo": {
-    "active": true,
+    "active": false,
     "title": "Platform Downtime Scheduled",
     "startTime": "null",
     "endTime": "null",
