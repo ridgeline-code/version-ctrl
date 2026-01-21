@@ -1,6 +1,6 @@
 {
   "isOutdated": {
-    "active": false,
+    "active": true,
     "title": "Older Client",
     "message": "You can ignore this message as your client will still work! Though, there is a new version available. Update for the best experience! You will be notified when this build of the client is no longer supported.",
     "updateLink": "https://github.com/ridgeline-code/Nautilus-Client/releases/tag/v1.4"
@@ -11,6 +11,7 @@
     "message": "This version of Nautilus Client has known issues which have been fixed in later builds. Please update to continue using Nautilus. Thank you for understanding."
   }
 }
+
 
 
 
