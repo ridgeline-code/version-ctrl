@@ -10,6 +10,10 @@
         {
       "title": "Welcome to Nautilus Client!",
       "message": "The Closed Alpha test has started for remote users! Feel free to report any issues or bugs during this first round of testing."
+    },
+        {
+      "title": "Nautilus 3i (thinking) is currently unavailable",
+      "message": "Due to some behavioral issues from the last update, the reasoning/thinking version of 3i is not available until some problems are fixed. Nautilus 3i Quick is still good to go!"
     }
   ]
 }
