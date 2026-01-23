@@ -1,10 +1,10 @@
 {
   "downtimeInfo": {
     "active": true,
-    "title": "Nautilus 3i (thinking) offline",
+    "title": "Platform Downtime",
     "startTime": "N/A",
     "endTime": "N/A",
-    "message": "Nautilus 3i (thinking) is undergoing repair. You will be defaulted to Nautilus 3i Quick."
+    "message": "Apologies for the unexpected downtime - there are some critical problems which are being addressed. Again, sorry for the inconvenience "
   },
   "infoBoard": [
         {
