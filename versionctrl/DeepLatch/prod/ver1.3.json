@@ -6,11 +6,12 @@
     "updateLink": "https://github.com/ridgeline-code/Nautilus-Client/releases"
   },
   "denyAccess": {
-    "active": false,
+    "active": true,
     "title": "Time to Update",
     "message": "This version of Nautilus Client has known issues which have been fixed in later builds. Please update to continue using Nautilus. Thank you for understanding. Navigate to: 'https://github.com/ridgeline-code/Nautilus-Client/releases' for the latest version."
   }
 }
+
 
 
 
