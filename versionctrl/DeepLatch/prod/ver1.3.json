@@ -3,14 +3,15 @@
     "active": true,
     "title": "Outdated Client",
     "message": "Major updates have been made! Please update your client for the most stable and reliable experience.",
-    "updateLink": "https://github.com/ridgeline-code/Nautilus-Client/releases/tag/v1.4.1"
+    "updateLink": "https://github.com/ridgeline-code/Nautilus-Client/releases"
   },
   "denyAccess": {
     "active": false,
     "title": "Time to Update",
-    "message": "This version of Nautilus Client has known issues which have been fixed in later builds. Please update to continue using Nautilus. Thank you for understanding."
+    "message": "This version of Nautilus Client has known issues which have been fixed in later builds. Please update to continue using Nautilus. Thank you for understanding. Navigate to: 'https://github.com/ridgeline-code/Nautilus-Client/releases' for the latest version."
   }
 }
+
 
 
 
