@@ -1,10 +1,10 @@
 {
   "downtimeInfo": {
     "active": false,
-    "title": "Platform Downtime",
-    "startTime": "N/A",
-    "endTime": "N/A",
-    "message": "Apologies for the unexpected downtime - there are some critical problems which are being addressed. Again, sorry for the inconvenience "
+    "title": "Nautilus 3i Behavior Issues",
+    "startTime": "Jan 27th, 26",
+    "endTime": "As soon as it's fixed...",
+    "message": "Nautilus 3i is having some problems generating quality outputs after its latest update. I have identified the issues and are waiting on the model to finish training (then run benchmarks) to ensure all problems are solved. For now, please be extra careful of misinformation of specific details in its replies. I will keep you updated, as this will take a few days due to other commitments."
   },
   "infoBoard": [
         {
